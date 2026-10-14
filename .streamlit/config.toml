@@ -1,11 +1,11 @@
 [theme]
-base = "light"
-primaryColor = "#2563EB"
-backgroundColor = "#F6F8FB"
-secondaryBackgroundColor = "#FFFFFF"
-textColor = "#172033"
-borderColor = "#D9E1EA"
-baseRadius = "10px"
+base = "dark"
+primaryColor = "#0EA5C9"
+backgroundColor = "#060F17"
+secondaryBackgroundColor = "#101C28"
+textColor = "#F1F5F9"
+borderColor = "#263746"
+baseRadius = "12px"
 buttonRadius = "8px"
 showWidgetBorder = true
 showSidebarBorder = true
@@ -13,15 +13,15 @@ font = "sans-serif"
 headingFont = "sans-serif"
 baseFontSize = 14
 baseFontWeight = 400
-headingFontSizes = ["30px", "24px", "19px", "16px", "14px", "12px"]
+headingFontSizes = ["26px", "20px", "16px", "14px", "13px", "12px"]
 headingFontWeights = [700, 700, 650, 600, 500, 500]
 linkUnderline = false
-dataframeHeaderBackgroundColor = "#F1F5F9"
-dataframeHeaderTextColor = "#172033"
+dataframeHeaderBackgroundColor = "#142331"
+dataframeHeaderTextColor = "#F1F5F9"
 
 [theme.sidebar]
-backgroundColor = "#FFFFFF"
-secondaryBackgroundColor = "#F6F8FB"
-textColor = "#172033"
-borderColor = "#D9E1EA"
-primaryColor = "#2563EB"
+backgroundColor = "#080F18"
+secondaryBackgroundColor = "#101C28"
+textColor = "#F1F5F9"
+borderColor = "#263746"
+primaryColor = "#0EA5C9"
